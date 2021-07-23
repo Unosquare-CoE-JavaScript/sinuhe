@@ -28,6 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -43,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626879675275</updated>
-      <workItem from="1626879676364" duration="33555000" />
+      <workItem from="1626879676364" duration="36108000" />
     </task>
     <task id="LOCAL-00001" summary="JS Fundamentals exercises">
       <created>1626880156848</created>
