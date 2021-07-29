@@ -1,72 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64d6f33b-e5b6-4c00-aec1-5bf9fbad6622" name="Default Changelist" comment="JS Fundamentals exercises">
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/chainOfResponsability/chainOfResponsability.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/chainOfResponsability/chainOfResponsabilityBrokerChain.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/chainOfResponsability/chainOfResponsabilityExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/commandPattern/command.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/commandPattern/commandExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/commandPattern/commandUndo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/interpreter/interfaceAgregation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/interpreter/interpreter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/interpreter/interpreterExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/iterator/iterator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/iterator/iteratorArrayBackedProperties.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/iterator/iteratorExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/iterator/iteratorTreeTraversal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/mediator/mediatorChat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/mediator/mediatorEvent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/mediator/mediatorExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/memento/memento.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/memento/mementoExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/observer/observer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/observer/observerExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/observer/observerPropertiesDependecies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/behavioral/observer/observerPropertyObservers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/creational/builder/builder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/creational/builder/builderExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/creational/builder/creationalBuilder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/creational/factoryPattern/factory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/creational/factoryPattern/factoryAbstract.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/creational/factoryPattern/factoryExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/creational/prototype/protectionProxy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/creational/prototype/prototype.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/creational/prototype/prototypeExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/creational/singleton/singleton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/creational/singleton/singletonExersice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/creational/singleton/singletonMonostate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/creational/singleton/singletonProblems.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/principles/dependecyIinversio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/principles/liskov.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/proxy/peoxyExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/proxy/propertyProxy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/proxy/valueProxy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/proxy/virtualProxy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/state/state.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/state/stateExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/state/stateMachine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/strategy/strategy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/strategy/strategyExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/adapter/adapter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/adapter/adapterExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/bridge/bridge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/bridge/bridgeExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/composite/composite.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/composite/compositeExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/composite/compositeNeuralNetworks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/decorator/decorator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/decorator/decoratorExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/facade/facade.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/facade/facadeExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/flyweight/flyweight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/flyweight/flyweigthExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/structural/flyweight/flyweigthNames.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/templateMethod/templateMethod.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/templateMethod/templateMethodExercise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/visitor/visitor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPatterns/visitor/visitorExercise.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="64d6f33b-e5b6-4c00-aec1-5bf9fbad6622" name="Default Changelist" comment="design patterns">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,9 +42,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/designPatterns/creational" />
       <recent name="$PROJECT_DIR$/designPatterns/behavioral" />
       <recent name="$PROJECT_DIR$/designPatterns/structural" />
+      <recent name="$PROJECT_DIR$/designPatterns/creational" />
       <recent name="$PROJECT_DIR$/designPatterns/principles" />
       <recent name="$PROJECT_DIR$/designPatterns/templateMethod" />
     </key>
@@ -122,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626879675275</updated>
       <workItem from="1626879676364" duration="39485000" />
-      <workItem from="1627315115496" duration="62655000" />
+      <workItem from="1627315115496" duration="62900000" />
     </task>
     <task id="LOCAL-00001" summary="JS Fundamentals exercises">
       <created>1626880156848</created>
@@ -131,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626880156848</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="design patterns">
+      <created>1627597669981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627597669981</updated>
+    </task>
+    <task id="LOCAL-00003" summary="design patterns">
+      <created>1627597687144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627597687144</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JS Fundamentals exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="JS Fundamentals exercises" />
+    <MESSAGE value="design patterns" />
+    <option name="LAST_COMMIT_MESSAGE" value="design patterns" />
   </component>
 </project>
