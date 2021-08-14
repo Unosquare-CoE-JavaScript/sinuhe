@@ -15,7 +15,7 @@
   >
     <!-- Name -->
     <div class="mb-3">
-      <label class="inline-block mb-2">Name</label>
+      <label class="inline-block mb-2">{{ $t('auth.name') }}</label>
       <vee-field
           type="text"
           name="name"
@@ -39,7 +39,7 @@
     </div>
     <!-- Age -->
     <div class="mb-3">
-      <label class="inline-block mb-2">Age</label>
+      <label class="inline-block mb-2">{{ $t('auth.age') }}</label>
       <vee-field
           class="block w-full py-1.5 px-3 text-gray-800 border border-gray-300 transition
                   duration-500 focus:outline-none focus:border-black rounded"
@@ -70,7 +70,7 @@
     </div>
     <!-- Confirm Password -->
     <div class="mb-3">
-      <label class="inline-block mb-2">Confirm Password</label>
+      <label class="inline-block mb-2">{{ $t('auth.confirm_password') }}</label>
       <vee-field
           type="password"
           name="confirm_password"
@@ -81,7 +81,7 @@
     </div>
     <!-- Country -->
     <div class="mb-3">
-      <label class="inline-block mb-2">Country</label>
+      <label class="inline-block mb-2">{{ $t('auth.country') }}</label>
       <vee-field
           as="select"
           class="block w-full py-1.5 px-3 text-gray-800 border border-gray-300 transition
@@ -104,7 +104,7 @@
           value="1"
       />
       <ErrorMessage class="text-red-600" name="tos" />
-      <label class="inline-block">Accept terms of service</label>
+      <label class="inline-block">{{ $t('register.accept') }}</label>
     </div>
     <button
         type="submit"

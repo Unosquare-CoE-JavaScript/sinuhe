@@ -13,11 +13,13 @@
         <ul class="flex flex-row mt-1">
           <!-- Navigation Links -->
           <li>
-            <router-link class="px-2 text-white" :to="{ name: 'about' }">About</router-link>
+            <router-link class="px-2 text-white" :to="{ name: 'about' }">
+              {{ $t('header.about') }}
+            </router-link>
           </li>
           <li v-if="!userLoggedIn">
             <a class="px-2 text-white" href="#" @click.prevent="toggleAuthModal">
-              Login / Register
+              {{ $t('header.login_register') }}
             </a>
           </li>
           <template v-else>
@@ -28,6 +30,11 @@
               <a class="px-2 text-white" href="#" @click.prevent="signout">Logout</a>
             </li>
           </template>
+        </ul>
+        <ul class="flex flex-row mt-1 ml-auto">
+          <li><a href="#" class="px-2 text-white" @click.prevent="changeLocale">
+            {{ currentLocale }}
+          </a></li>
         </ul>
       </div>
     </nav>
@@ -50,9 +57,17 @@ export default {
     // toggleAuthModal() {
     //   this.$store.commit('toggleAuthModal');
     // },
+    changeLocale() {
+      this.$i18n.locale = this.$i18n.locale === 'fr' ? 'en' : 'fr';
+    },
   },
   computed: {
-    ...mapState(['userLoggedIn']),
+    ...mapState({
+      userLoggedIn: (state) => state.auth.userLoggedIn,
+    }),
+    currentLocale() {
+      return this.$i18n.locale === 'fr' ? 'French' : 'English';
+    },
   },
 };
 </script>

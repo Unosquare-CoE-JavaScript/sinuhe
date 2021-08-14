@@ -3,7 +3,7 @@
     <div class="relative">
       <!-- Play/Pause Button -->
       <div class="float-left w-7 h-7 leading-3">
-        <button type="button" @click.prevent="toggleAudio">
+        <button type="button" @click.prevent="toggleAudio" id="player-play-button">
           <i class="fa text-gray-500 text-xl"
              :class="{ 'fa-pause': playing, 'fa-play': !playing }"
           ></i>
@@ -57,7 +57,12 @@ export default {
   },
   computed: {
     ...mapGetters(['playing']),
-    ...mapState(['duration', 'seek', 'playerProgress', 'currentSong']),
+    ...mapState({
+      duration: (state) => state.player.duration,
+      seek: (state) => state.player.seek,
+      playerProgress: (state) => state.player.playerProgress,
+      currentSong: (state) => state.player.currentSong,
+    }),
   },
 };
 </script>

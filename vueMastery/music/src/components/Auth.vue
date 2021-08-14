@@ -21,7 +21,7 @@
         <div class="py-4 text-left px-6">
           <!--Title-->
           <div class="flex justify-between items-center pb-4">
-            <p class="text-2xl font-bold">Your Account</p>
+            <p class="text-2xl font-bold">{{ $t('auth.your_account') }}</p>
             <!-- Modal Close Button -->
             <div
                 class="modal-close cursor-pointer z-50"
@@ -42,7 +42,7 @@
                     'hover:text-white text-white bg-blue-600': tab === 'login',
                     'hover:text-blue-600': tab === 'register'
                   }"
-              >Login
+              >{{ $t('auth.login') }}
               </a>
             </li>
             <li class="flex-auto text-center">
@@ -54,7 +54,7 @@
                     'hover:text-white text-white bg-blue-600': tab === 'register',
                     'hover:text-blue-600': tab === 'login'
                   }"
-              >Register</a>
+              >{{ $t('auth.register') }}</a>
             </li>
           </ul>
           <AppLoginForm v-if="tab === 'login'"></AppLoginForm>
@@ -81,7 +81,9 @@ export default {
     // ...mapState({
     //   modal: 'authModalShow',
     // }),
-    ...mapState(['authModalShow']),
+    ...mapState({
+      authModalShow: (state) => state.auth.authModalShow,
+    }),
   },
 };
 </script>
