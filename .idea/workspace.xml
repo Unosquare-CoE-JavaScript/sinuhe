@@ -1,57 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64d6f33b-e5b6-4c00-aec1-5bf9fbad6622" name="Default Changelist" comment="JS Fundamentals exercises">
-      <change afterPath="$PROJECT_DIR$/testingVueComponents/testing-vue-components" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/assets/img/header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/assets/img/introduction-music.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/assets/img/introduction-users.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/assets/img/profile-pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/assets/img/song-header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/assets/img/user-header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/css/app.341c7812.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/css/chunk-vendors.06a7122d.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/android-chrome-maskable-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/android-chrome-maskable-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/apple-touch-icon-120x120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/apple-touch-icon-152x152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/apple-touch-icon-180x180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/apple-touch-icon-60x60.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/apple-touch-icon-76x76.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/msapplication-icon-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/img/icons/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/js/app.ca4363ae.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/js/app.ca4363ae.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/js/chunk-2d22d746.fa3cc103.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/js/chunk-2d22d746.fa3cc103.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/js/chunk-5142c739.78985467.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/js/chunk-5142c739.78985467.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/js/chunk-vendors.200a00c0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/js/chunk-vendors.200a00c0.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/js/groupedChunk.ad5e89c4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/js/groupedChunk.ad5e89c4.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/precache-manifest.47a773b11d94baa22869937c0a1166cd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/dist/service-worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vueMastery/music/yarn-error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testingVueComponents/testing-vue-components/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/testingVueComponents/testing-vue-components/jest.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testingVueComponents/testing-vue-components/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/testingVueComponents/testing-vue-components/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testingVueComponents/testing-vue-components/specs/alert.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/testingVueComponents/testing-vue-components/specs/alert.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testingVueComponents/testing-vue-components/specs/fruits.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/testingVueComponents/testing-vue-components/specs/fruits.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testingVueComponents/testing-vue-components/specs/salad.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/testingVueComponents/testing-vue-components/specs/salad.spec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testingVueComponents/testing-vue-components/specs/test.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/testingVueComponents/testing-vue-components/specs/test.spec.js" afterDir="false" />
+    <list default="true" id="64d6f33b-e5b6-4c00-aec1-5bf9fbad6622" name="Default Changelist" comment="testing vue components">
+      <change afterPath="$PROJECT_DIR$/testingVueComponents/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testingVueComponents/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testingVueComponents/jest.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testingVueComponents/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testingVueComponents/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testingVueComponents/testing-vue-components" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,11 +53,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testingVueComponents" />
       <recent name="$PROJECT_DIR$/designPatterns/behavioral" />
       <recent name="$PROJECT_DIR$/designPatterns/structural" />
       <recent name="$PROJECT_DIR$/designPatterns/creational" />
       <recent name="$PROJECT_DIR$/designPatterns/principles" />
-      <recent name="$PROJECT_DIR$/designPatterns/templateMethod" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -117,7 +73,7 @@
       <workItem from="1627696649830" duration="1198000" />
       <workItem from="1628001647068" duration="44600000" />
       <workItem from="1628195995865" duration="19776000" />
-      <workItem from="1628520135573" duration="119504000" />
+      <workItem from="1628520135573" duration="119815000" />
     </task>
     <task id="LOCAL-00001" summary="JS Fundamentals exercises">
       <created>1626880156848</created>
@@ -140,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627597687144</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="testing vue components">
+      <created>1628975241779</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628975241780</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JS Fundamentals exercises" />
     <MESSAGE value="design patterns" />
-    <option name="LAST_COMMIT_MESSAGE" value="design patterns" />
+    <MESSAGE value="testing vue components" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing vue components" />
   </component>
 </project>
