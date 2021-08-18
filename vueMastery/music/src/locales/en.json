@@ -1,0 +1,30 @@
+{
+  "home": {
+    "listen": "Listen to great music!",
+    "main_message": "Listen to the hottest hits!",
+    "songs": "Songs"
+  },
+  "song": {
+    "comment_count": "No comments|1 Comment|{count} Comments",
+    "latest": "Latest",
+    "oldest": "Oldest"
+  },
+  "register": {
+    "TOS": "Terms of service",
+    "accept": "I accept Music's {0}"
+  },
+  "header": {
+    "login_register": "Login / Register",
+    "songs": "Songs",
+    "about": "About"
+  },
+  "auth": {
+    "your_account": "Yout account",
+    "login": "Login",
+    "register": "Register",
+    "name": "Name",
+    "age": "Age",
+    "confirm_password": "Confirm Password",
+    "country": "Country"
+  }
+}
