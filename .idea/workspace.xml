@@ -5,41 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64d6f33b-e5b6-4c00-aec1-5bf9fbad6622" name="Default Changelist" comment="git irgnore updated">
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-food-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-food-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-food-app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-food-app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-food-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-food-app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-sect-8/src/components/Helpers/Wrapper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-sect-8/src/components/UI/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-sect-8/src/components/UI/Button.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-sect-8/src/components/UI/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-sect-8/src/components/UI/Card.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-sect-8/src/components/UI/ErrorModal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-sect-8/src/components/UI/ErrorModal.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-sect-8/src/components/Users/AddUser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-sect-8/src/components/Users/AddUser.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-sect-8/src/components/Users/UserList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-sect-8/src/components/Users/UserList.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-side-efects/src/components/UI/Input/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-side-efects/src/components/UI/Input/Input.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-project-side-efects/src/store/auth-context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup-how-react-works/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/Chart/Chart.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/Chart/ChartBar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/Chart/ChartBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/Expenses/ExpenseForm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/Expenses/ExpenseItem.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/Expenses/ExpensesChart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/Expenses/ExpensesFilter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/Expenses/ExpensesFilter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/Expenses/ExpensesList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/Expenses/ExpensesList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/NewExpense/ExpenseForm.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/NewExpense/ExpenseForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/NewExpense/NewExpense.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/completeGuide/01-starting-setup/src/components/NewExpense/NewExpense.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -58,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="testingVueComponents" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -91,6 +56,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
