@@ -1,0 +1,30 @@
+{
+  "home": {
+    "listen": "Escucha la mejor música!",
+    "main_message": "Escucha los mejores éxitos del momento",
+    "songs": "Canciones"
+  },
+  "song": {
+    "comment_count": "No commentaire|1 Commentaire|{count} Commentaires",
+    "latest": "Más recientes",
+    "oldest": "Más antiguos"
+  },
+  "register": {
+    "TOS": "Terminos de servicio",
+    "accept": "Acepto los terminos {0}"
+  },
+  "header": {
+    "login_register": "Iniciar sesión / Registrarse",
+    "songs": "Canciones",
+    "about": "Acerca de"
+  },
+  "auth": {
+    "your_account": "Tu cuenta",
+    "login": "iniciar sesión",
+    "register": "Registrarse",
+    "name": "Nombre,",
+    "age": "Edad",
+    "confirm_password": "Confirmar password",
+    "country": "País"
+  }
+}
