@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64d6f33b-e5b6-4c00-aec1-5bf9fbad6622" name="Default Changelist" comment="design patterns" />
+    <list default="true" id="64d6f33b-e5b6-4c00-aec1-5bf9fbad6622" name="Default Changelist" comment="design patterns">
+      <change afterPath="$PROJECT_DIR$/reactComponentsPattern/showcase/src/patterns/02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactComponentsPattern/showcase/src/patterns/03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactComponentsPattern/showcase/src/patterns/04.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactComponentsPattern/showcase/src/patterns/05.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactComponentsPattern/showcase/src/patterns/06.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactComponentsPattern/showcase/src/patterns/07.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactComponentsPattern/showcase/src/patterns/08.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactComponentsPattern/showcase/src/patterns/09.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactComponentsPattern/showcase/src/patterns/10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +70,9 @@
       <updated>1626879675275</updated>
       <workItem from="1626879676364" duration="39485000" />
       <workItem from="1627315115496" duration="62900000" />
-      <workItem from="1630438684784" duration="612000" />
+      <workItem from="1630949204362" duration="11196000" />
+      <workItem from="1631027191679" duration="2916000" />
+      <workItem from="1631034660237" duration="30284000" />
     </task>
     <task id="LOCAL-00001" summary="JS Fundamentals exercises">
       <created>1626880156848</created>
