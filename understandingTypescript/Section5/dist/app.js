@@ -1,54 +1,24 @@
 "use strict";
-class Department {
-    constructor(id, name) {
-        this.id = id;
-        this.name = name;
-        this.employees = [];
+let add;
+add = (n1, n2) => {
+    return n1 + n2;
+};
+class Person {
+    constructor(n) {
+        this.age = 27;
+        if (n)
+            this.name = n;
     }
-    describe() {
-        console.log(`Department: ${this.id} ${this.name}`);
-    }
-    addEmployee(employee) {
-        this.employees.push(employee);
-    }
-    printEmployeeInfo() {
-        console.log(this.employees.length);
-        console.log(this.employees);
-    }
-}
-class ITDepartment extends Department {
-    constructor(id, admins) {
-        super(id, 'IT');
-        this.admins = admins;
-    }
-}
-class AccountingDepartment extends Department {
-    constructor(id, reports) {
-        super(id, 'Accounting');
-        this.reports = reports;
-    }
-    addReports(text) {
-        this.reports.push(text);
-    }
-    printReports() {
-        console.log(this.reports);
-    }
-    addEmployee(employee) {
-        if (employee === 'Sinuhe') {
-            return;
+    greet(phrase) {
+        if (this.name) {
+            console.log(phrase + ' ' + this.name);
         }
-        this.employees.push(employee);
+        else {
+            console.log('Hi');
+        }
     }
 }
-const accounting = new AccountingDepartment('id1', []);
-accounting.addReports('Money stolen :C');
-accounting.printReports();
-console.log(accounting);
-accounting.describe();
-accounting.addEmployee('Yair');
-accounting.addEmployee('Isaac');
-accounting.describe();
-accounting.addEmployee('Gomez');
-accounting.addEmployee('Sinuhe');
-accounting.printEmployeeInfo();
+let user1;
+user1 = new Person();
+user1.greet('hello, this is');
 //# sourceMappingURL=app.js.map
