@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d6f33b-e5b6-4c00-aec1-5bf9fbad6622" name="Default Changelist" comment="design patterns ended">
-      <change afterPath="$PROJECT_DIR$/multithreadJS/ch1-c-threads/happycoin-threads.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithreadJS/ch1-c-threads/happycoin.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithreadJS/ch7-happycoin-as/happycoin.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithreadJS/ch7-happycoin-as/happycoin.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithreadJS/ch7-wasm-add/add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithreadJS/ch7-wasm-add/add.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithreadJS/ch8-template-render/rpc-worker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithreadJS/ch8-template-render/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithreadJS/ch8-template-render/template.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/multithreadJS/ch8-template-render/worker.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch2-service-workers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch2-service-workers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch2-shared-worker/blue.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch2-shared-worker/blue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch2-shared-worker/red.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch2-shared-worker/red.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch2-worker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch2-worker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch4-webworkers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch4-webworkers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch5-game-of-life/gol.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch5-game-of-life/gol.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch5-notify-order/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch5-notify-order/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch5-notify-when-ready/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch5-notify-when-ready/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch5-thread-gol/gol.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch5-thread-gol/gol.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="typeScript2022" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,6 +41,10 @@
             <RecentBranchesForRepo>
               <option name="branches">
                 <list>
+                  <RecentBranch>
+                    <option name="branchName" value="multithreadJS" />
+                    <option name="lastUsedInstant" value="1651705458" />
+                  </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="typeScript2022" />
                     <option name="lastUsedInstant" value="1651340050" />
@@ -106,7 +109,7 @@
       <workItem from="1631034660237" duration="31008000" />
       <workItem from="1631293316756" duration="8461000" />
       <workItem from="1631546084297" duration="18621000" />
-      <workItem from="1651633263814" duration="4798000" />
+      <workItem from="1651633263814" duration="5527000" />
     </task>
     <task id="LOCAL-00001" summary="JS Fundamentals exercises">
       <created>1626880156848</created>
