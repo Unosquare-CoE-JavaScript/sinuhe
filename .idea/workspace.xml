@@ -2,27 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64d6f33b-e5b6-4c00-aec1-5bf9fbad6622" name="Default Changelist" comment="design patterns ended">
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/asyncAwait/01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/asyncAwait/02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/asyncAwait/03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/asyncAwait/04.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/asyncAwait/05.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/asyncAwait/06.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/asyncAwait/07.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/excersices/exersice8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/generators/01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/generators/02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/generators/03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/generators/05.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/promises/01.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/promises/02.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/promises/03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/promises/04.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/promises/05.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/promises/06.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asynchronousJS/promises/07.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch2-service-workers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch2-service-workers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch2-shared-worker/blue.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch2-shared-worker/blue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch2-shared-worker/red.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch2-shared-worker/red.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch2-worker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch2-worker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch4-webworkers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch4-webworkers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch5-game-of-life/gol.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch5-game-of-life/gol.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch5-notify-order/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch5-notify-order/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch5-notify-when-ready/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch5-notify-when-ready/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreadJS/ch5-thread-gol/gol.html" beforeDir="false" afterPath="$PROJECT_DIR$/multithreadJS/ch5-thread-gol/gol.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +28,39 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="typeScript2022" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="multithreadJS" />
+                    <option name="lastUsedInstant" value="1651705458" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="typeScript2022" />
+                    <option name="lastUsedInstant" value="1651340050" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1651340049" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="ProjectId" id="1vd6ZiNsZ0bJ3rR0SLs2q0Qte3R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -56,14 +74,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/multithreadJS/ch8-template-render" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/understandingTypescript/Section12/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/multithreadJS/ch8-template-render" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/designPatterns/behavioral" />
       <recent name="$PROJECT_DIR$/designPatterns/structural" />
@@ -87,6 +109,7 @@
       <workItem from="1631034660237" duration="31008000" />
       <workItem from="1631293316756" duration="8461000" />
       <workItem from="1631546084297" duration="18621000" />
+      <workItem from="1651633263814" duration="5527000" />
     </task>
     <task id="LOCAL-00001" summary="JS Fundamentals exercises">
       <created>1626880156848</created>
@@ -121,6 +144,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/multithreadJS/ch7-wasm-add/add.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
